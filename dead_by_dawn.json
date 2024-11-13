@@ -1,1 +1,103 @@
 
+{
+"Name": "Dead By Dawn Season 2",
+"Version": 1731526058,
+"MaxPerkRepetition": 1,
+"GlobalNotes": "",
+"Tiers": [
+{
+"Name": "General",
+"SurvivorIndvPerkBans": [],
+"KillerIndvPerkBans": [],
+"SurvivorComboPerkBans": [],
+"KillerComboPerkBans": []
+}
+],
+"KillerOverride": [
+{
+"Name": "The Trapper",
+"KillerNotes": "",
+"IsDisabled": false,
+"Map": [
+0
+],
+"BalanceTiers": [
+0
+],
+"SurvivorBalanceTiers": [
+0
+],
+"AntiFacecampPermitted": false,
+"KillerIndvPerkBans": [],
+"KillerComboPerkBans": [],
+"SurvivorIndvPerkBans": [],
+"SurvivorComboPerkBans": [],
+"SurvivorWhitelistedPerks": [],
+"SurvivorWhitelistedComboPerks": [],
+"KillerWhitelistedPerks": [],
+"KillerWhitelistedComboPerks": [],
+"AddonTiersBanned": [],
+"IndividualAddonBans": [],
+"ItemWhitelist": [],
+"AddonWhitelist": {
+"Firecracker": {
+"Addons": []
+},
+"Flashlight": {
+"Addons": []
+},
+"Med-Kit": {
+"Addons": []
+},
+"Toolbox": {
+"Addons": []
+},
+"Key": {
+"Addons": []
+},
+"Map": {
+"Addons": []
+}
+},
+"SurvivorOfferings": [],
+"KillerOfferings": []
+},
+{
+"Name": "The Wraith",
+"KillerNotes": "",
+"IsDisabled": false,
+"Map": [
+0
+],
+"BalanceTiers": [
+0
+],
+"SurvivorBalanceTiers": [
+0
+],
+"AntiFacecampPermitted": false,
+"KillerIndvPerkBans": [],
+"KillerComboPerkBans": [],
+"SurvivorIndvPerkBans": [],
+"SurvivorComboPerkBans": [],
+"SurvivorWhitelistedPerks": [],
+"SurvivorWhitelistedComboPerks": [],
+"KillerWhitelistedPerks": [],
+"KillerWhitelistedComboPerks": [],
+"AddonTiersBanned": [],
+"IndividualAddonBans": [],
+"ItemWhitelist": [],
+"AddonWhitelist": {
+"Firecracker": {
+"Addons": []
+},
+"Flashlight": {
+"Addons": []
+},
+"Med-Kit": {
+"Addons": []
+},
+"Toolbox": {
+"Addons": []
+... (1,693 lines left)
+  
