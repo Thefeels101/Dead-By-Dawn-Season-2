@@ -1,6 +1,6 @@
 {
 	"Name": "Dead By Dawn",
-	"Version": 1731525714,
+	"Version": 1731623555,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -219,6 +219,7 @@
 				"24",
 				"30",
 				"34",
+				"36",
 				"38",
 				"39",
 				"44",
@@ -1031,7 +1032,8 @@
 				224
 			],
 			"ItemWhitelist": [
-				0
+				0,
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
