@@ -1,6 +1,6 @@
 {
 	"Name": "Dead By Dawn",
-	"Version": 1731623555,
+	"Version": 1731794026,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -772,8 +772,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				4,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
 				5
@@ -990,8 +990,7 @@
 				0,
 				2,
 				5,
-				6,
-				11
+				6
 			],
 			"KillerOfferings": [
 				5
@@ -1864,8 +1863,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				4,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
 				5
@@ -2150,8 +2149,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				4,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
 				5
@@ -2646,8 +2645,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				4,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
 				5
