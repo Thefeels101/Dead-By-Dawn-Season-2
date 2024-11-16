@@ -1,6 +1,6 @@
 {
-	"Name": "Dead By Dawn",
-	"Version": 1731794026,
+	"Name": "Dead By Dawn Alt2",
+	"Version": 1731795702,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1344,8 +1344,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				4,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
 				5
@@ -1895,7 +1895,9 @@
 				"101"
 			],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedPerks": [
+				"112"
+			],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
