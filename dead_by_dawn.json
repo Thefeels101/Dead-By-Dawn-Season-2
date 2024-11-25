@@ -1,6 +1,6 @@
 {
-	"Name": "Dead By Dawn Scrim Night",
-	"Version": 1732335861,
+	"Name": "Dead By Dawn Alt2",
+	"Version": 1732558484,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -92,6 +92,7 @@
 				"171",
 				"172",
 				"175",
+				"180",
 				"265",
 				"188",
 				"195",
@@ -1512,9 +1513,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [
-				"112"
-			],
+			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
