@@ -1,6 +1,6 @@
 {
 	"Name": "Dead By Dawn Alt2",
-	"Version": 1732558484,
+	"Version": 1733703960,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -25,6 +25,7 @@
 				"24",
 				"25",
 				"60",
+				"246",
 				"28",
 				"29",
 				"33",
@@ -92,10 +93,12 @@
 				"171",
 				"172",
 				"175",
-				"180",
+				"183",
+				"264",
 				"265",
 				"188",
 				"195",
+				"196",
 				"197",
 				"198",
 				"200",
@@ -137,6 +140,10 @@
 				[
 					"118",
 					"121"
+				],
+				[
+					"50",
+					"128"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -175,6 +182,8 @@
 				"6",
 				"52",
 				"8",
+				"9",
+				"10",
 				"20",
 				"21",
 				"24",
@@ -197,6 +206,7 @@
 				"96",
 				"92",
 				"102",
+				"107",
 				"109",
 				"111",
 				"112",
@@ -218,6 +228,7 @@
 				"20",
 				"21",
 				"24",
+				"27",
 				"30",
 				"34",
 				"36",
@@ -230,8 +241,10 @@
 				"57",
 				"61",
 				"65",
+				"67",
 				"76",
 				"89",
+				"95",
 				"96",
 				"92",
 				"102",
@@ -339,9 +352,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [
-				"112"
-			],
+			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
@@ -394,6 +405,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"10",
 				"85",
 				"111"
 			],
@@ -1823,7 +1835,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"124"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1895,6 +1909,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"8",
+				"26",
 				"101"
 			],
 			"SurvivorComboPerkBans": [],
@@ -2741,17 +2756,4 @@
 					"Addons": []
 				},
 				"Toolbox": {
-					"Addons": []
-				},
-				"Key": {
-					"Addons": []
-				},
-				"Map": {
-					"Addons": []
-				}
-			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
-		}
-	]
-}
+					"Ad
