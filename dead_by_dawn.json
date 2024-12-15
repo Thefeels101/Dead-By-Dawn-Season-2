@@ -1,6 +1,6 @@
 {
-	"Name": "Dead By Dawn Alt2",
-	"Version": 1733703960,
+	"Name": "Dead By Dawn",
+	"Version": 1734279960,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -10,6 +10,7 @@
 				"0",
 				"2",
 				"5",
+				"6",
 				"52",
 				"7",
 				"258",
@@ -299,6 +300,7 @@
 				"57",
 				"76",
 				"96",
+				"109",
 				"121",
 				"127",
 				"128"
@@ -329,6 +331,13 @@
 					"160"
 				]
 			]
+		},
+		{
+			"Name": "",
+			"SurvivorIndvPerkBans": [],
+			"KillerIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"KillerComboPerkBans": []
 		}
 	],
 	"KillerOverride": [
@@ -2192,7 +2201,9 @@
 				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"178"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -2360,6 +2371,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"178",
 				"220"
 			],
 			"KillerComboPerkBans": [],
@@ -2619,7 +2631,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"10"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2756,4 +2770,17 @@
 					"Addons": []
 				},
 				"Toolbox": {
-					"Ad
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
+		}
+	]
+}
