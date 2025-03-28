@@ -1,6 +1,6 @@
 {
 	"Name": "Dead By Dawn",
-	"Version": 1740328096,
+	"Version": 1743177819,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -114,6 +114,7 @@
 				"205",
 				"209",
 				"211",
+				"214",
 				"216",
 				"218",
 				"272",
@@ -238,6 +239,7 @@
 				"1",
 				"6",
 				"8",
+				"11",
 				"20",
 				"21",
 				"24",
@@ -330,6 +332,7 @@
 			"Name": "★★★★★",
 			"SurvivorIndvPerkBans": [],
 			"KillerIndvPerkBans": [
+				"162",
 				"163",
 				"168",
 				"169",
@@ -594,7 +597,6 @@
 			"IndividualAddonBans": [
 				78,
 				79,
-				77,
 				76,
 				75,
 				74,
@@ -2752,6 +2754,54 @@
 		},
 		{
 			"Name": "The Houndmaster",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
+		},
+		{
+			"Name": "The Ghoul",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
