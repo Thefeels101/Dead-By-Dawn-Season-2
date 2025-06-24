@@ -1,6 +1,6 @@
 {
 	"Name": "Dead By dawn Season 3",
-	"Version": 1750351775,
+	"Version": 1750723751,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -100,6 +100,7 @@
 				"277",
 				"180",
 				"183",
+				"264",
 				"265",
 				"188",
 				"194",
@@ -264,6 +265,7 @@
 				"8",
 				"11",
 				"21",
+				"246",
 				"30",
 				"32",
 				"34",
@@ -282,6 +284,7 @@
 				"89",
 				"95",
 				"96",
+				"92",
 				"102",
 				"109",
 				"112",
@@ -302,6 +305,7 @@
 				"10",
 				"11",
 				"21",
+				"246",
 				"30",
 				"32",
 				"34",
@@ -323,11 +327,13 @@
 				"89",
 				"95",
 				"96",
+				"92",
 				"102",
 				"107",
 				"109",
 				"112",
 				"121",
+				"124",
 				"127",
 				"128"
 			],
@@ -760,7 +766,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"26"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -873,10 +881,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5,
-				6
+				2
 			],
 			"KillerOfferings": [
 				5,
