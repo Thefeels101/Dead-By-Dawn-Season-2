@@ -1,6 +1,6 @@
 {
 	"Name": "Dead By dawn Season 3",
-	"Version": 1751292663,
+	"Version": 1751298842,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -198,6 +198,7 @@
 				"38",
 				"76",
 				"96",
+				"102",
 				"109",
 				"121",
 				"127"
@@ -234,6 +235,7 @@
 			"Name": "3 Stars ",
 			"SurvivorIndvPerkBans": [
 				"1",
+				"12",
 				"21",
 				"246",
 				"34",
@@ -250,6 +252,7 @@
 				"76",
 				"96",
 				"92",
+				"102",
 				"109",
 				"112",
 				"121",
@@ -770,7 +773,8 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"26"
+				"26",
+				"262"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2641,7 +2645,7 @@
 		{
 			"Name": "The Good Guy",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -3059,7 +3063,7 @@
 		{
 			"Name": "The Animatronic",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -3106,3 +3110,4 @@
 		}
 	]
 }
+
