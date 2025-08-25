@@ -1,6 +1,6 @@
 {
 	"Name": "Dead By dawn Season 3",
-	"Version": 1752162891,
+	"Version": 1756149889,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -225,6 +225,7 @@
 				"96",
 				"109",
 				"121",
+				"124",
 				"127",
 				"128"
 			],
@@ -258,6 +259,7 @@
 				"109",
 				"112",
 				"121",
+				"124",
 				"127",
 				"128"
 			],
@@ -1365,7 +1367,8 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"11",
-				"53"
+				"53",
+				"112"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
